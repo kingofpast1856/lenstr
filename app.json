@@ -33,7 +33,7 @@
       ["expo-image-picker", { "photosPermission": "Galeriden fotoğraf seçmek için izin gereklidir." }]
     ],
     "extra": {
-      "eas": { "projectId": "your-project-id-here" }
+      "eas": { "projectId": "ffac2720-f854-4a56-bda4-5787c22190ac" }
     }
   }
 }
